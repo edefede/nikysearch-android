@@ -1,0 +1,8 @@
+Unofficial Android shell for the Italian search engine NikySearch (https://nikysearch.it): it opens the website full screen, with pull-to-refresh, and external links open in your browser.
+
+• Search on our own index (NikyIndex) and federated sources, without tracking.
+• Camera: only for OrgScan, the document scanner with Italian OCR. The permission is requested on first use.
+• Microphone: only for voice search, which recognises speech on the device. The permission is requested on first use.
+• No Google services, no ads, no analytics.
+
+Unofficial app, free software (GNU GPL v3). Requires an Internet connection: the content is that of the website.
