@@ -1,0 +1,1 @@
+Versione 0.5: scanner OrgScan con fotocamera, salvataggio file, ricerca vocale.

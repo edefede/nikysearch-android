@@ -1,0 +1,8 @@
+Guscio per Android del motore di ricerca italiano NikySearch (https://nikysearch.it): apre il sito a schermo pieno, con tira-giù per aggiornare, e i link esterni si aprono nel browser.
+
+• Ricerca sul nostro indice (NikyIndex) e su fonti federate, senza tracciamento.
+• Fotocamera: solo per OrgScan, lo scanner di documenti con OCR in italiano. Il permesso viene chiesto al primo uso.
+• Microfono: solo per la ricerca vocale, che riconosce la voce sul dispositivo. Il permesso viene chiesto al primo uso.
+• Nessun servizio Google, nessuna pubblicità, nessun analytics.
+
+App non ufficiale, software libero (GNU GPL v3). Richiede connessione a Internet: i contenuti sono quelli del sito.
